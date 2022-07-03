@@ -1,4 +1,4 @@
-baseurl = "https://conferences-esir.io/website"
+baseurl = "https://conferences-esir.github.io/website/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
