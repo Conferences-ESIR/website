@@ -1,5 +1,5 @@
-baseurl = "/"
-languageCode = "fr-fr"
+baseurl = "https://conferences-esir.io/website"
+languageCode = "en-us"
 theme = "terminal"
 paginate = 5
 
@@ -61,7 +61,7 @@ paginate = 5
   site = ""
 
 [languages]
-  [languages.fr]
+  [languages.en]
     languageName = "French"
     title = "Terminal"
     subtitle = "A simple, retro theme for Hugo"
@@ -76,8 +76,8 @@ paginate = 5
     missingContentMessage = "Page not found..."
     missingBackButtonLabel = "Back to home page"
 
-    [languages.fr.menu]
-        [[languages.fr.menu.main]]
+    [languages.en.menu]
+        [[languages.en.menu.main]]
             identifier = "aPropos"
             name = "A propos"
             url="/A propos"
